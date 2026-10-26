@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="expense_ink">#193C30</color>
+    <color name="expense_canvas">#F7F8F2</color>
+</resources>
